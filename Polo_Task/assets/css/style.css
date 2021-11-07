@@ -1,0 +1,48 @@
+*{
+margin: 0;
+padding: 0;
+text-decoration: none;
+color: white;
+}
+
+ul li{
+    list-style: none;
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+
+ul{
+    display: flex;
+}
+
+.top-header{
+    display: flex;
+    position: absolute;
+}
+
+.altNav{
+    display: flex;
+    margin-top: 40px;
+    position: absolute;
+}
+
+.navigation{
+    margin-left: 240px;
+    margin-bottom: 10px;
+}
+
+.Logo{
+    top: 10px;
+    margin-left: 10px;
+    font-size: 25px;
+
+}
+
+.contact-from-socail-platforms{
+    margin-left:300px
+}
+
+.image{
+    position: absolute;
+}
+
